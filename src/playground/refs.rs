@@ -1,4 +1,4 @@
-pub fn run_refs() {
+pub fn go() {
     let var = 9;
     let var_ref = &var;
 

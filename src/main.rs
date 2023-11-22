@@ -1,5 +1,7 @@
+#[allow(dead_code)]
 mod playground;
 
 fn main() {
-    playground::refs::run_refs();
+    // playground::refs::go();
+    playground::vecs::go();
 }
